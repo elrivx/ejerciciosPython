@@ -20,3 +20,4 @@ como guía. Uno nunca sabe ;)
 
 - [x] Ejercicio 01: ¿Es par o impar? https://youtu.be/ivKHozpuwcA
 - [x] Ejercicio 02: Bonificación por puntos https://youtu.be/jaJyt0EhoTg
+- [x] Ejercicio 03: Simulación de capital
