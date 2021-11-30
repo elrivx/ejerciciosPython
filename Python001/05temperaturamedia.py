@@ -11,7 +11,7 @@
 # podemos crear algunas. Se suele decir que las funciones
 # "encapsulan" una parte del código del resto del programa.
 
-# Ejercicio 05: La Rectora de la Escuela Primaria Los Cuackitos Felices está
+# Ejercicio 05: La Rectora de la Escuela Primaria Los Patitos Felices está
 # preocupada de las temperaturas del día. Niños y Niñas salen
 # a sus respectivos recreos y a temperaturas muy altas o muy bajas,
 # se pueden enfermar. Ella nos pidió un programa que le entregue la
