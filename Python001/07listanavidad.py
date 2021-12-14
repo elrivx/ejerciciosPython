@@ -13,7 +13,7 @@
 # de ingresar nuevos datos, en caso de ser necesario.
 #
 # Ejercicio 07: Estábamos descansando cuando recibimos la visita de los
-# Duendes de Santa (San Nicolás, El Viejo Pacuero, Papá Noel, etc), muy
+# Duendes de Santa (San Nicolás, El Viejo Pascuero, Papá Noel, etc), muy
 # nerviosos y asustados. Se acerca la Navidad y deben dejar preparado
 # todo para la fecha importante. Santa les dejó en un archivo separado
 # por comas (cvs) la lista de niñas y niños del mundo, con lo que van a recibir.
