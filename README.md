@@ -24,4 +24,5 @@ como guía. Uno nunca sabe ;)
 - [x] Ejercicio 04: Total a Pagar           https://youtu.be/26UnBYXolus
 - [x] Ejercicio 05: Temperatura Media       https://www.youtube.com/watch?v=lb-Kx5wwKbo
 - [x] Ejercicio 06: Vocales                 https://www.youtube.com/watch?v=2IIOKA5YYGE&t=9s
-- [x] Ejercicio 07: Lista de regalos  
+- [x] Ejercicio 07: Lista de regalos        https://youtu.be/E_9YxWbfzpQ
+- [x] Ejercicio 08: Inspirator  
