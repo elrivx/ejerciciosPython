@@ -1,6 +1,6 @@
 # Vamos a importar la función que creamos en en archivo funciones.py
 
-from funciones import alAzar
+from 08.1funciones import alAzar
 
 
 # Vamos a abrir los archivos
