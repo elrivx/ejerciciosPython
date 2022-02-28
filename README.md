@@ -14,7 +14,7 @@ como guía. Uno nunca sabe ;)
 ## Tecnologías
 
 - Python 3
-- GNU Linux (Arcolinux para ser exacto, aunque ésto no es una obligación)
+- GNU Linux (Arcolinux, Arch Linux, Linux Mint para ser exacto, aunque ésto no es una obligación)
 
 ## Ejercicios
 
