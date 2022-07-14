@@ -1,5 +1,5 @@
 # La programación fue evolucionando con el paso del tiempo.
-# Ates, no había problemas si se escribía muchas veces
+# Antes, no había problemas si se escribía muchas veces
 # un código y se ejecutaba.
 
 # Con el paso del tiempo, nos fuimos dando cuenta de que ésta práctica
